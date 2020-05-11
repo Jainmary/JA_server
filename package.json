@@ -1,0 +1,22 @@
+{
+  "name": "ja_server",
+  "version": "1.0.0",
+  "description": "server implementation",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node APP/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jainmary/JA_server.git"
+  },
+  "author": "jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jainmary/JA_server/issues"
+  },
+  "homepage": "https://github.com/Jainmary/JA_server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
